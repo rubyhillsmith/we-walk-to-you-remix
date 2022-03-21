@@ -1,6 +1,6 @@
 # Hurry Up
 
-A simple digital poem that builds each line from three lists created as an example for the Horizons Digital Writing lab.
+A remix of We Walk to You.
 
 ## Made on [Glitch](https://glitch.com/)
 
